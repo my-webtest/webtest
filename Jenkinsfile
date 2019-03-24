@@ -1,4 +1,4 @@
 node{
 	echo "1"
-	echo "${GITHUB_REPO_GIT_URL}"
+//	echo "${GITHUB_REPO_GIT_URL}"
 }
